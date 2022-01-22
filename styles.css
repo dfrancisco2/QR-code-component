@@ -30,12 +30,12 @@ img {
   border-radius: 10px;
 }
 
-.content {
+.description {
   padding: 0 30px;
   text-align: center;
 }
 
-.content h1 {
+.description h1 {
   font-size: 22px;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
